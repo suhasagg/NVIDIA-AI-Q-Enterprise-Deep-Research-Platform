@@ -1,0 +1,1 @@
+{"tenant_id":"acme","principal_id":"analyst@example","goal":"Assess the technical and commercial implications of moving our analytics workloads to GPU-accelerated data processing","mode":"deep","allowed_sources":["enterprise","web"],"context":{"department":"strategy"}}
